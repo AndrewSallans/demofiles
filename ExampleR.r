@@ -21,3 +21,6 @@ head(dat)
 # 4 4 5 6 7
 # 5 5 6 7 8
 # 6 6 7 8 9
+
+
+Fabian's edits
