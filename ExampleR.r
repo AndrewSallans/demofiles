@@ -26,3 +26,6 @@ head(dat)
 Fabian's edits
 
 Adding new line
+
+
+Editing my example file
